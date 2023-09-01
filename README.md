@@ -2,4 +2,4 @@
 
 Personal portfolio website for Sean Jung.
 
-[![sean's website demo](./src/assets/demo.gif)](jungjs.com)
+[![sean's website demo](./src/assets/demo.gif)](https://jungjs.com/)
